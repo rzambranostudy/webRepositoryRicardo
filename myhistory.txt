@@ -1,11 +1,2 @@
-Hola amigos. Mi nombre es Ricardo
-Tengo 33 años viejos
-Soy un apasionado del desarrollo web y móvil en Java, Python y PHP
-Actualmente, trabajo en CAEM y proximante en CCB
-
-Adicionalmente, tengo habilidades muy buenas en la programación.
-De la misma manera, en desarrollo web, móvil y proximante en iOS
-Ya estoy terminando el curso de Git y Git. Ya estoy en un nuevo curso.
-
-Finalmente, yo estoy esperando un beca desde las TIC´S que podria salir
-para el mes de mayo 2021.
+Soy un master y Doctor en Programación.
+Gracias
