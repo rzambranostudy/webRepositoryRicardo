@@ -1,8 +1,10 @@
 Hola amigos. Mi nombre es Ricardo Andres Zambrano Cuaicuan
-Tengo 35 años
+Tengo 33 años
 Soy un apasionado del desarrollo web y móvil en Java, Python y PHP
 Actualmente, trabajo en CAEM
-Gracias
+
 Adicionalmente, tengo habilidades muy buenas en la programación.
 De la misma manera, en desarrollo web, móvil y proximante en iOS
 Ya estoy terminando el curso de Git y Git
+
+Finalmente, ya estoy esperando un beca desde las TIC´S.
