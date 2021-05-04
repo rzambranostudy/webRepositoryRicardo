@@ -1,3 +1,6 @@
 Hola amigos. Mi nombre es Ricardo Andres Zambrano Cuaicuan
 Tengo 35 años
 Ahora quiero hablar de mi vida laboral como programador.
+
+Hi. My name is Ricardo Zambrano
+I am the best programmer in Git y GitHub
