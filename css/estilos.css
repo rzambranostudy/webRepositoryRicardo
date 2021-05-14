@@ -47,3 +47,10 @@ vertical-align:middle;
     background: white;
     padding: 1em;
 }
+#footer
+{
+    background: #777;
+    color: aquamarine;
+    text-align: center;
+    padding: 0.5em;
+}
